@@ -1,0 +1,41 @@
+Commands which can be useful to navigate in your linux terminal:
+
+1)
+Command:
+cd
+
+Description:
+Switch to /home/<username>/ directory
+
+2)
+Command:
+pwd
+
+Description:
+Outputs present working directory
+
+3)
+Command:
+cd .
+
+Description:
+Change the directory to current working directory, therefore no change
+
+4)
+Command:
+cd /home/ranjana/Documents
+Description:
+Change directory using absolute path
+
+5)
+Command:
+cd Documents
+Description:
+Let say you are in /home/ranjana/ then cd Document will navigate you to Documents folder without using absolute path (cd /home/ranjana/Documents) or something like (cd /documents)
+
+6)
+Command:
+cd ..
+Description:
+Navigate to directory of current working directory
+
